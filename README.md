@@ -1,0 +1,1 @@
+novel code generation tool that automates MCP server creation, reducing development time from hours to minutes. The generator produces production-ready servers in TypeScript or Python from simple configuration inputs, including complete project structure, validation, authentication setup, and documentation.
